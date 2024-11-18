@@ -1,4 +1,6 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## EXP : 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME : MOHAMED HAMEEM SAJITH J
+## REG NO : 212223240090
 
 ## AIM :
 to implement the silding window protocol
@@ -16,9 +18,6 @@ to implement the silding window protocol
 ### CLIENT :
 
 ```
-NAME : Mohamed Hameem Sajith J
-REG NO :212223240090
-
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -42,9 +41,6 @@ while True:
 ### SERVER :
 
 ```
-NAME : Mohamed Hameem Sajith J
-REG NO :212223240090
-
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
